@@ -729,7 +729,7 @@ footer {
 .ft-mo em { font-style: italic; color: var(--lilac); }
 
 .ft-dt {
-  font-family: 'Cinzel', serif; font-size: 22px; letter-spacing: 6px;
+  font-family: 'Cinzel', serif; font-size: 22px; letter-spacing: 0px;
   color: var(--gold); margin-top: 14px; position: relative; z-index: 1;
 }
 .ft-mg {

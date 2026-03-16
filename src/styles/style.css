@@ -871,3 +871,24 @@ footer {
   }
 
 }
+
+/* ── TEXTO FLUIDO PARA TODOS OS DISPOSITIVOS ── */
+html {
+  font-size: clamp(14px, 2vw, 18px);
+}
+
+.st {
+  font-size: clamp(32px, 7vw, 88px);
+}
+
+.h-names {
+  font-size: clamp(20px, 6vw, 62px);
+}
+
+.h-date {
+  font-size: clamp(14px, 3vw, 32px);
+}
+
+.cd-n {
+  font-size: clamp(40px, 10vw, 100px);
+}

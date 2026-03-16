@@ -886,7 +886,7 @@ html {
 }
 
 .h-date {
-  font-size: clamp(16px, 3vw, 32px);
+  font-size: clamp(20px, 3vw, 32px);
 }
 
 .cd-n {
